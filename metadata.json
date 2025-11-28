@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Audio Transcriber",
+  "description": "A powerful audio transcription tool using Google Gemini 2.5 Flash. Record voice notes or upload audio files to get instant, accurate transcripts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
