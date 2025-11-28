@@ -92,9 +92,6 @@ function App() {
             </h1>
           </div>
           <div className="flex items-center gap-4">
-            <div className="hidden sm:flex items-center px-3 py-1 rounded-full bg-indigo-50 dark:bg-indigo-950/30 border border-indigo-200 dark:border-indigo-500/20 text-indigo-600 dark:text-indigo-300 text-xs font-medium">
-              Powered by Gemini 2.5 Flash
-            </div>
             <button
               onClick={toggleTheme}
               className="p-2 rounded-lg bg-gray-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-gray-200 dark:hover:bg-slate-700 transition-colors"
